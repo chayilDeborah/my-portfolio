@@ -1,13 +1,14 @@
+import About from "./components/About"
+import Navbar from "./components/Navbar"
 
-import './App.css';
-import Navbar from './components/Navbar';
-
-function App() {
+const App = () => {
   return (
-   <>
-  <Navbar />
-   </>
-  );
+    <>
+    <main className="text-gray-400 bg-gray-900 body-font">
+    <Navbar />
+    <About />
+    </main>
+    </>
+  )
 }
-
-export default App;
+export default App 
