@@ -12,15 +12,14 @@ const About = () => {
                     <p className="mb-8 leading-relaxed">
                     I am a junior programmer with good knowledge of Front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps.
                     </p>
-                    <p>I am enthusiastic about learning new things. I am also interested in Web3-Blockchain Technology</p>
+                    <div className="mb-3">I am enthusiastic about learning new things. I am also interested in Web3-Blockchain Technology</div>
                     <div className="flex justify-center">
                         <a href="#contact" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Work With Me</a>
                         <a href="#projects" className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">See My Past Work</a>
                     </div>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                    <img className="object-cover object-center rounded" alt="hero"/>
-
+                    <img className="object-cover object-center rounded" alt="hero" src="./coding.svg"/>
                 </div>
             </div>
         </section>
