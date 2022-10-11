@@ -21,3 +21,15 @@ export const projects = [
         link: "https://starterpacks.vercel.app/"
     }
 ];
+
+export const skills = [
+    "Javascript",
+    "ReactJS",
+    "HTML/CSS",
+    "TailwindCSS",
+    "SCSS",
+    "CSS in JS",
+    "Redux",
+    "ContextAPI",
+
+]
