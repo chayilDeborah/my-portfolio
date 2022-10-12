@@ -7,7 +7,7 @@ const About = () => {
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Hi, I am Deborah.
-                        <br className="hidden lg:inline-block" />I love to create interesting and interactive responsive websites.
+                        <br className="hidden lg:inline-block" />I love to create interactive responsive websites.
                     </h1>
                     <p className="mb-8 leading-relaxed">
                     I am a junior programmer with good knowledge of Front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps.
