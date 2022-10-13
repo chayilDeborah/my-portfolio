@@ -8,7 +8,7 @@ export const projects = [
     },
     {
         title: "Monsters Rolodex",
-        subtitle: "React, Pure CSS, API",
+        subtitle: "React, CSS, API",
         description: "A Single Page Application built with ReactJS, consumed API to fetch list of monsters images",
         image: "./monster.gif",
         link: "https://monsters-app-2.vercel.app/",
