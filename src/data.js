@@ -31,5 +31,7 @@ export const skills = [
     "CSS in JS",
     "Redux",
     "ContextAPI",
+    "Git",
+    "Figma",
 
 ]
